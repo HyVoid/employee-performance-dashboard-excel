@@ -6,7 +6,9 @@
 
 **Plan annual work, monitor execution, evaluate performance, and identify delivery risks from a single workbook—available free in both Browser and Excel with no installation required.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser**  
 > [HTML live demo link](https://hyvoid.github.io/Employee-Performance-Annual-Work-Planning-Excel-Toolkit/)
