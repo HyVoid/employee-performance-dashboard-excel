@@ -9,7 +9,7 @@
 Try the browser version for free. If you need the offline Excel version for your permanent records, you can buy it with a 30-day, no-questions-asked money-back guarantee.
 
 > 🌐 **Live Interactive Demo**  
-> [Try the Free Employee Performance Dashboard (Browser HTML Demo)](https://hyvoid.github.io/Employee-Performance-Annual-Work-Planning-Excel-Toolkit/)
+> [Try the Free Employee Performance Dashboard (Browser HTML Demo)](https://hyvoid.github.io/employee-performance-dashboard-excel/)
 >
 > 📥 **Get the Full Toolkit**  
 > [Download the Complete Performance & Work Planning Excel Template](https://alexhasgreatestuff.gumroad.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
