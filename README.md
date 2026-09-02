@@ -12,7 +12,7 @@ Try the browser version for free. If you need the offline Excel version for your
 > [Try the Free Employee Performance Dashboard (Browser HTML Demo)](https://hyvoid.github.io/employee-performance-dashboard-excel/)
 >
 > 📥 **Get the Full Toolkit**  
-> [Download the Complete Performance & Work Planning Excel Template](https://alexhasgreatestuff.gumroad.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
+> [Download the Complete Performance & Work Planning Excel Template](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
 
 ---
 
@@ -58,7 +58,7 @@ Navigate to the **Employee Summary**, **Executive Dashboard**, or **Executive Re
 ### Step 4: Refresh for continuous KPI tracking
 Update task progress and completion dates weekly, monthly, or during QBRs. The embedded dashboards and Power BI data layers will automatically reflect the newest operational insights.
 
-🎯 **Call to Action:** Set your parameters, drop in your data, and get instant analytical clarity. [Test a single evaluation cycle in the browser demo](https://hyvoid.github.io/Employee-Performance-Annual-Work-Planning-Excel-Toolkit/), then **[Download the Reusable Excel Template](https://alexhasgreatestuff.gumroad.com/l/oqwcut)** to retain your data and reuse the framework for every future review cycle.
+🎯 **Call to Action:** Set your parameters, drop in your data, and get instant analytical clarity. [Test a single evaluation cycle in the browser demo](https://hyvoid.github.io/Employee-Performance-Annual-Work-Planning-Excel-Toolkit/), then **[Download the Reusable Excel Template](https://www.theseusworkshop.com/l/oqwcut)** to retain your data and reuse the framework for every future review cycle.
 
 ---
 
