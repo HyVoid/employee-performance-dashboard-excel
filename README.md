@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # Employee Performance & Annual Work Planning Excel Toolkit (Performance Management Dashboard)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
