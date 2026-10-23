@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Employee Performance & Annual Work Planning Excel Toolkit (Performance Management Dashboard)
+<img width="1648" height="1228" alt="image" src="https://github.com/user-attachments/assets/e0661783-d671-4d78-a4fc-701ec18bc216" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-2ea44f.svg)
