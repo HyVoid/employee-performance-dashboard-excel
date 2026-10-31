@@ -32,7 +32,7 @@
   --anomaly-bg: rgba(211, 47, 47, 0.04);
 
   /* Typography */
-  --font-heading: 'Georgia', serif;
+  --font-heading: 'EB Garamond', Georgia, serif;
   --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
   /* Tracking */

@@ -1,6 +1,6 @@
 {
   "name": "Employee Performance & Annual Work Planning Excel Toolkit",
-  "description": "Enterprise-grade employee performance evaluation and annual work plan management system with Excel formula execution engine and Power BI analytics model.",
+  "description": "Theseus Workshop - employee-performance-dashboard-excel: Enterprise employee performance evaluation and annual work planning dashboard with live Excel formula engine.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

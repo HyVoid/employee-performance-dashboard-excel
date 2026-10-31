@@ -61,7 +61,7 @@ export const PowerBIDataTab: React.FC = () => {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `PerformPlan_PowerBI_FlatTable_${new Date().toISOString().split('T')[0]}.csv`;
+    link.download = `employee-performance-dashboard-excel_PowerBI_FlatTable_${new Date().toISOString().split('T')[0]}.csv`;
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

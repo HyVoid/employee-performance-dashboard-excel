@@ -36,15 +36,15 @@ export const HeaderNav: React.FC = () => {
         <div className="max-w-[1400px] mx-auto px-10 h-full flex items-center justify-between gap-4">
           {/* Brand Identity */}
           <div className="flex items-center gap-2.5 shrink-0">
-            <div className="w-8 h-8 rounded-lg bg-[var(--color-primary)] text-white flex items-center justify-center font-heading font-bold text-base shadow-xs shrink-0">
-              E
+            <div className="w-8 h-8 rounded-lg bg-[var(--color-primary)] text-white flex items-center justify-center font-heading font-bold text-base shadow-xs shrink-0 select-none">
+              T
             </div>
             <div>
               <div className="font-heading font-bold text-sm text-[var(--color-primary)] tracking-tight leading-snug">
-                Employee Performance &amp; Annual Work Planning Excel Toolkit
+                Theseus Workshop
               </div>
-              <div className="text-[10px] font-medium text-[var(--color-muted)] tracking-wider uppercase mt-0.5">
-                Excel Formula Engine &amp; Analytics
+              <div className="text-[11px] font-medium text-[var(--color-muted)] tracking-tight leading-none mt-0.5">
+                employee-performance-dashboard-excel
               </div>
             </div>
           </div>
