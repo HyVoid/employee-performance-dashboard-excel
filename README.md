@@ -17,6 +17,7 @@
 >
 > 📥 **Offline Reusable Excel Workbook (One-Time Payment • 30-Day Money-Back Guarantee)**  
 > [Get the Automated Employee Performance Review & Work Planning Excel Template (.xlsx — Buy Once, Save Locally & Reuse Forever)](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
+>  100% Local Data Privacy: Keep sensitive employee appraisal records on your own local drive without uploading staff data to third-party cloud servers
 
 ---
 
