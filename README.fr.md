@@ -1,110 +1,152 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Kit Excel de Performance des Employés & Planification Annuelle du Travail (Tableau de Bord de Gestion de la Performance)
+<h1>Modèle Excel d'Évaluation de la Performance des Employés & Outil Web Gratuit de Suivi des KPI en Ligne (Tableau de Bord de Planification Annuelle du Travail Automatisé)</h1>
+<img width="1648" height="1228" alt="image" src="https://github.com/user-attachments/assets/e0661783-d671-4d78-a4fc-701ec18bc216" />
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-2ea44f.svg)
-![Tool](https://img.shields.io/badge/Tool-Performance%20Planning%20%26%20Decision%20Support-orange.svg)
 
-<p><strong>La gestion de la performance des employés</strong> n'a pas à être une corvée administrative tournée vers le passé. Planifiez le travail annuel, surveillez l'exécution des projets, évaluez les indicateurs de performance du personnel et identifiez les risques de livraison depuis un seul classeur automatisé. <strong>Aucune installation de HRIS d'entreprise requise — menez votre processus annuel d'évaluation de la performance directement dans votre navigateur ou via Microsoft Excel.</strong></p>
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Web Tool: 100% Free Browser App](https://img.shields.io/badge/Web%20Tool-Free%20Online%20App-2ea44f.svg)
+![Excel Version: One-Time Purchase + 30-Day Guarantee](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase%20%2830--Day%20Refund%29-orange.svg)
 
-Essayez gratuitement la version navigateur. Si vous avez besoin de la version Excel hors ligne pour vos archives permanentes, vous pouvez l'acheter avec une garantie de remboursement de 30 jours, sans questions.
+<p><strong>Le modèle Excel d'évaluation de la performance des employés & tableau de bord automatisé de suivi des KPI</strong> transforme les flux de travail complexes d'évaluation des talents en un système simple, fixe et fondé sur le copier-coller, destiné aux managers débutants, aux généralistes RH, aux chefs de département et aux propriétaires de petites entreprises. Il relie <strong>la définition d'objectifs annuels OKR et KPI</strong>, <strong>le suivi de l'exécution des projets</strong>, <strong>les alertes automatisées de risque de retard RAG (Rouge-Orange-Vert)</strong> et <strong>la notation pondérée des employés à 360 degrés</strong> au sein d'un flux de travail standardisé unique. Copiez-collez votre liste de personnel brute et votre liste de tâches pour générer des <strong>tableaux de bord RH</strong> visuels et des <strong>fiches d'évaluation des employés imprimables</strong> en 60 secondes, sans écrire un seul <code>VLOOKUP</code>, sans construire de tableaux croisés dynamiques, ni même double-cliquer sur les coins de cellules pour faire glisser des formules vers le bas.</p>
 
-> 🌐 **Démo interactive en direct**  
-> [Essayez le tableau de bord gratuit de performance des employés (démo HTML dans le navigateur)](https://hyvoid.github.io/employee-performance-dashboard-excel/)
+<p><strong>Accès flexible sur double plateforme (outil web gratuit + classeur Excel local à paiement unique) :</strong> Utilisez <strong>l'outil web interactif dans le navigateur gratuitement</strong> pour effectuer des calculs instantanés en ligne. Lorsque vous souhaitez conserver des historiques permanents localement et réutiliser ce flux automatisé fixe à chaque futur cycle d'évaluation, procurez-vous le <strong>classeur Microsoft Excel (<code>.xlsx</code>) hors ligne pour un petit paiement unique</strong>—à une fraction infime de ce que facturent les grandes plateformes SaaS RH en abonnements mensuels récurrents, avec une <strong>garantie de remboursement de 30 jours, sans questions</strong>.</p>
+
+> 🌐 **Outil web en ligne 100 % gratuit (calculateur instantané dans le navigateur)**  
+> [Utilisez l'outil web interactif gratuit de performance des employés dans votre navigateur (application HTML — aucune installation requise)](https://hyvoid.github.io/employee-performance-dashboard-excel/)
 >
-> 📥 **Obtenir le kit complet**  
-> [Téléchargez le modèle Excel complet de performance & planification du travail](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
+> 📥 **Classeur Excel hors ligne réutilisable (paiement unique • garantie de remboursement de 30 jours)**  
+> [Obtenez le modèle Excel automatisé d'évaluation de la performance & de planification du travail (.xlsx — payez une fois, enregistrez localement & réutilisez pour toujours)](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
+>  100 % de confidentialité des données locales : conservez les enregistrements sensibles d'évaluation du personnel sur votre propre disque local sans téléverser les données des employés vers des serveurs cloud tiers
 
 ---
 
-## Pourquoi choisir ce tableau de bord de gestion de la performance des employés ?
+## Pourquoi choisir ce flux de performance Excel fixe plutôt que des feuilles fragiles ou un SaaS RH coûteux ?
 
-La plupart des **modèles de performance des employés** et **formulaires d'évaluation du personnel** se concentrent exclusivement sur l'enregistrement de scores arbitraires après que le travail est déjà terminé.
+Les **modèles d'évaluation de la performance des employés** standards et les **formulaires d'évaluation Word** statiques enregistrent des scores subjectifs après que les échéances sont déjà passées. Pendant ce temps, les **logiciels de gestion de la performance et HRIS d'entreprise** leaders du secteur facturent des abonnements mensuels par employé très élevés et nécessitent des semaines d'intégration juste pour suivre des KPI de base.
 
-Ce kit aborde la gestion des talents différemment.
+Ce kit résout les maux de tête récurrents de l'évaluation en verrouillant des analyses RH complexes dans un **flux de travail Excel standardisé, plug-and-play** :
 
-Au lieu de traiter l'évaluation de la performance comme un exercice annuel isolé, il relie **la définition des objectifs, le suivi des KPI, la surveillance de l'exécution, l'évaluation et le reporting de direction** en un seul flux opérationnel continu.
-
-Le classeur commence par la planification annuelle du travail, suit chaque tâche tout au long de son cycle d'exécution, identifie automatiquement les risques d'échéancier à l'aide d'indicateurs RAG configurables (Rouge-Orange-Vert), calcule des scores de performance pondérés et produit des **tableaux de bord RH** prêts pour la direction ainsi que des rapports de performance imprimables.
-
-Comme chaque calcul provient d'un modèle de données structuré plutôt que de feuilles de calcul maintenues manuellement, les responsables voient toujours une **source unique de vérité**. Que votre organisation mène des **revues commerciales trimestrielles (QBR)** ou des évaluations annuelles, cet outil garde les responsables concentrés sur la qualité de l'exécution plutôt que sur la maintenance des formules de tableurs.
+1. **Une logique métier complexe verrouillée dans un flux fixe :** Le système relie cinq étapes opérationnelles en une routine unique et fixe : **planification annuelle du travail, suivi des tâches en temps réel, détection des risques d'échéance, notation KPI pondérée et reporting RH de direction**.
+2. **Paiement unique vs abonnements mensuels interminables :** Au lieu de payer des milliers de dollars chaque année pour des abonnements à des logiciels RH surchargés, un seul achat vous donne un moteur de calcul `.xlsx` hors ligne et permanent, que vous possédez et réutilisez sur un nombre illimité de cycles d'évaluation trimestriels et annuels.
+3. **Source unique de vérité (SSOT) sans maintenance de formules :** Chaque graphique, fiche d'évaluation et synthèse puise dans un seul modèle de données structuré. Toutes les formules de tableaux dynamiques et les règles de recherche se mettent à jour automatiquement dès le collage des données—vous laissant libre de vous concentrer sur les décisions de gestion à forte valeur ajoutée pendant les saisons d'évaluation chargées.
 
 ---
 
-## Fonctionnalités clés : points de douleur RH vs solutions de suivi
+## Quand avez-vous besoin de ce système d'évaluation des employés plug-and-play ? (scénarios débutants & haute saison)
 
-Ce tableau de bord traduit les maux de tête administratifs traditionnels en indicateurs opérationnels exploitables. Voici comment il répond à vos défis quotidiens :
+Si vous recherchez un **moyen simple de suivre les KPI des employés dans Excel** ou avez besoin d'un **calculateur d'évaluation du personnel instantané** avant une échéance d'évaluation imminente, ce kit est conçu pour un déploiement immédiat dans ces scénarios courants :
 
-- **Point de douleur : formulaires d'évaluation statiques** ➔ **Solution :** Suit les plans de travail annuels parallèlement à la progression d'exécution en temps réel au lieu de s'appuyer sur des souvenirs subjectifs de fin d'année.
-- **Point de douleur : risques de livraison de projet cachés** ➔ **Solution :** Identifie les employés dont les projets approchent des échéances *avant* que les retards ne deviennent visibles grâce à des alertes de statut RAG automatisées.
-- **Point de douleur : indicateurs d'équipe fragmentés** ➔ **Solution :** Consolide les taux d'achèvement à l'échelle de l'organisation, la performance KPI des départements et les risques de livraison de charge de travail en une seule vue de gestion unifiée.
-- **Point de douleur : notation de performance injuste** ➔ **Solution :** Construit les notes de performance individuelles à partir de résultats de tâches pondérés plutôt que d'impressions subjectives des responsables.
-- **Point de douleur : reporting RH manuel** ➔ **Solution :** Génère des rapports PDF prêts pour la direction et des tables d'export Power BI directement à partir des données opérationnelles sans reconstruire des synthèses à partir de zéro.
-
----
-
-## Tutoriel de démarrage rapide : comment configurer votre feuille d'évaluation de la performance
-
-Le démarrage ne prend que quelques minutes. Le kit est conçu pour séparer la configuration ponctuelle du suivi quotidien des employés.
-
-### Étape 1 : Configurer les paramètres KPI de l'organisation
-Ouvrez la feuille de calcul **Lookup_Settings**. Définissez le modèle de notation unique de votre organisation, les dimensions de performance (Qualité, Rapidité, etc.), les seuils d'alerte RAG et les périodes de reporting. Cela établit la référence de toutes les métriques automatisées.
-
-### Étape 2 : Importer les données existantes des employés et de définition d'objectifs
-Collez votre liste du personnel dans **Employee_Master**, cartographiez les objectifs annuels dans **Task_Master** et consignez les scores préliminaires dans **Evaluation**. Vous pouvez coller les données de manière transparente depuis des systèmes RH existants, des suiveurs de projets ou des exports CSV.
-
-### Étape 3 : Examiner immédiatement les rapports de gestion automatisés
-Accédez aux onglets **Employee Summary**, **Executive Dashboard** ou **Executive Report**. Regardez les scores de performance, les alertes de tâches en retard et les métriques de département se mettre à jour instantanément via le moteur de calcul.
-
-### Étape 4 : Actualiser pour un suivi KPI continu
-Mettez à jour la progression des tâches et les dates d'achèvement chaque semaine, chaque mois ou pendant les QBR. Les tableaux de bord intégrés et les couches de données Power BI refléteront automatiquement les informations opérationnelles les plus récentes.
-
-🎯 **Appel à l'action :** Définissez vos paramètres, ajoutez vos données et obtenez une clarté analytique instantanée. [Testez un cycle d'évaluation unique dans la démo navigateur](https://hyvoid.github.io/employee-performance-dashboard-excel/), puis **[téléchargez le modèle Excel réutilisable](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)** pour conserver vos données et réutiliser le cadre à chaque futur cycle d'évaluation.
+* **« Je dois terminer les évaluations de performance trimestrielles ou annuelles cette semaine sans acheter de logiciel RH coûteux. »** Collez votre liste d'employés existante et vos enregistrements de tâches directement dans le flux fixe. Le moteur de notation intégré calcule les notes pondérées et classe les niveaux de performance en moins d'une minute.
+* **« Je viens d'être promu responsable d'équipe et je n'ai aucune grille de notation standardisée. »** Utilisez les dimensions d'évaluation préconfigurées (Qualité, Ponctualité, Exactitude, Documentation) pour évaluer les membres de l'équipe de façon objective et défendre vos décisions de notation auprès de la direction avec des données concrètes.
+* **« Mon équipe suit les tâches quotidiennes dans une feuille et les objectifs annuels dans une autre, et rien ne correspond. »** Consolidez les suiveurs d'exécution de projets et les feuilles OKR/KPI annuelles dans un seul **tableau de bord Excel automatisé** où la progression quotidienne des tâches alimente directement les scores d'évaluation finaux.
+* **« La direction demande un rapport de performance de département et un jeu de données Power BI pour demain matin. »** Exportez immédiatement des fiches d'évaluation PDF prêtes pour la direction et des **tables de données Power BI / Tableau pré-aplaties** sans nettoyage manuel des données ni mise en forme de tableaux croisés dynamiques.
 
 ---
 
-## Problèmes courants de gestion de la performance que ce suivi KPI résout
+## Ce que ce suiveur KPI & système d'évaluation du personnel mesure (des points de douleur aux solutions)
 
-Beaucoup d'organisations réalisent que leurs évaluations de performance sont défectueuses seulement après avoir manqué des échéances. Ce kit fait passer votre équipe de la notation rétrospective à l'aide à la décision proactive.
+Ce **système automatisé de gestion de la performance** remplace les corvées de suivi RH manuelles par des métriques opérationnelles préconfigurées :
 
-| Points de douleur RH & opérations courants | Méthodes traditionnelles d'évaluation de la performance | La solution du kit Excel de performance |
-|----------------|-------------------|----------------|
-| **Objectifs annuels déconnectés** | Les employés travaillent toute l'année, mais les évaluations annuelles reposent sur une documentation fragmentée et le biais de récence. | Définition des objectifs, suivi de l'exécution et notation KPI finale restent interconnectés du T1 au T4. |
-| **Gestion réactive des retards** | Les goulots d'étranglement du calendrier et les problèmes d'allocation de ressources n'apparaissent que lors de la réunion d'évaluation finale. | Des indicateurs RAG configurables détectent les livrables en retard et à risque pendant que le travail est encore activement en cours. |
-| **Évaluations 360 subjectives** | Différents responsables notent des livrables similaires de façon incohérente en raison de grilles d'évaluation vagues. | Un cadre d'évaluation standardisé et pondéré normalise les notes sur la qualité, la ponctualité, l'exactitude et la documentation. |
-| **Reporting de direction fastidieux** | Les administrateurs RH perdent des jours à exporter, nettoyer et consolider plusieurs feuilles de calcul pour la direction. | Les tableaux de bord de direction et les fiches d'évaluation imprimables sont générés automatiquement directement depuis le modèle de données opérationnelles. |
-| **Métriques de département cloisonnées** | La direction voit les notes individuelles mais manque de visibilité sur la répartition de la charge de travail de l'équipe ou les tendances d'exécution. | Les synthèses par département agrègent les taux d'achèvement, les volumes de tâches et les risques de livraison dans un seul tableau de bord analytique. |
-| **Business Intelligence (BI) désordonnée** | Les données brutes des tableurs doivent être fortement nettoyées avant d'être importées dans Tableau ou Power BI. | Une couche d'export Power BI pré-aplatie fournit un jeu de données prêt à modéliser ne nécessitant aucune transformation supplémentaire. |
-
----
-
-## À qui s'adresse-t-il ? (rôles utilisateurs et cas d'usage)
-
-Ce kit est conçu avec précision pour les organisations qui ont besoin d'une gestion structurée de la performance mais veulent éviter l'encombrement, le coût et la courbe d'apprentissage abrupte des HRIS d'entreprise (systèmes d'information RH) ou des logiciels de gestion des talents lourds.
-
-Il est très efficace pour des rôles opérationnels spécifiques :
-
-- **Responsables & directeurs RH** recherchant une *feuille d'évaluation des employés* pour standardiser les évaluations annuelles de performance entre différents départements.
-- **Responsables des opérations** ayant besoin d'un *modèle Excel de suivi de projet* pour surveiller la qualité d'exécution, le respect des échéances et l'allocation de la charge de travail.
-- **Chefs de département & responsables d'équipe** cherchant un *tableau de bord de performance d'équipe* pour évaluer les livrables des employés de façon équitable et objective.
-- **Chefs de projet (PMO)** exigeant un *suivi d'exécution des tâches* avec indicateurs de statut RAG intégrés pour prévenir les retards de portefeuille.
-- **Analystes d'affaires** construisant des *flux de reporting RH* standardisés sans dépendre d'implémentations informatiques d'entreprise complexes.
-- **Propriétaires de PME** recherchant une solution Microsoft Excel légère et familière pour introduire une gestion professionnelle de la performance dans leurs équipes en croissance.
-
-**Aucune expertise avancée en tableurs n'est requise. Ouvrez la version navigateur ou le classeur Excel et commencez le suivi immédiatement.**
+| Point de douleur de gestion quotidien (intention de recherche) | Métriques principales & KPI à haute fréquence suivis | Solution Excel & outil web standardisée (sortie en 1 clic) |
+| :--- | :--- | :--- |
+| **Formulaires d'évaluation de fin d'année statiques**<br>*(recherche : formulaire d'évaluation d'employé à remplir)* | Objectifs de travail annuels, dates cibles des jalons, statut d'achèvement des tâches en temps réel (`% Complete`). | Relie la définition des objectifs annuels directement à la progression d'exécution quotidienne pour que les évaluations de fin d'année reflètent 12 mois de faits vérifiés. |
+| **Retards de livraison de projet cachés**<br>*(recherche : suiveur d'échéances de projet Excel avec alertes)* | Dates d'achèvement prévues vs réelles, décompte dynamique des jours de retard, **seuils d'alerte RAG** configurables. | Signale les livrables à risque et en retard en Orange ou Rouge *avant* que les échéances manquées ne fassent dérailler les objectifs trimestriels du département. |
+| **KPI de département fragmentés**<br>*(recherche : modèle de tableau de bord de productivité d'équipe)* | Taux d'achèvement à l'échelle de l'organisation, moyennes KPI par département, répartition de la charge de travail active par employé. | Agrège les tables de tâches individuelles dans un **tableau de bord RH de direction** unifié pour une comparaison instantanée entre équipes. |
+| **Notation des managers biaisée ou incohérente**<br>*(recherche : calculateur de grille de notation pondérée des employés)* | Scores de grille multidimensionnels (Qualité, Rapidité, Exactitude) multipliés par les pourcentages de poids stratégiques des tâches. | Calcule des notes de performance objectives et mathématiquement pondérées à partir des livrables réels plutôt que de l'intuition. |
+| **Reporting RH manuel de dernière minute**<br>*(recherche : générateur automatisé de fiches d'évaluation des employés)* | Synthèses d'évaluation individuelles, classements des meilleurs/pires performers, tables de reporting BI en fichier plat. | Génère des **fiches d'évaluation individuelles des employés** prêtes à imprimer et des **couches d'export Power BI** propres avec zéro reformatage manuel. |
 
 ---
 
-## À propos du créateur
+## Tutoriel de démarrage rapide en 1 minute : comment mener des évaluations de performance automatisées (flux de copier-coller sans formule)
 
-Je construis des outils d'aide à la décision légers basés sur Excel pour des situations où il y a simplement trop de pièces opérationnelles mobiles à garder dans la tête d'une seule personne.
+Les principes d'analyse commerciale sous-jacents—tels que la pondération multidimensionnelle des KPI, la modélisation dynamique de la dérive de calendrier RAG et l'agrégation relationnelle des données—sont complexes à construire à partir de zéro. **Nous avons intégré tous les calculs complexes, les règles de recherche à correspondance automatique et les formules dynamiques à mise à jour automatique dans un flux Excel fixe pour vous.**
 
-Au lieu de demander combien de graphiques peuvent tenir dans un tableau de bord, je pars d'une question différente :
+Vous n'avez pas besoin d'écrire des formules, de construire des tableaux croisés dynamiques, ni même de double-cliquer sur un coin de cellule pour faire glisser des formules vers le bas. Suivez quatre étapes simples pour devenir un analyste commercial axé sur les données et cibler vos décisions de gestion clés en **1 minute** :
 
-> **« Quelles informations doivent exister à un seul endroit pour que la prochaine décision opérationnelle puisse être prise en toute confiance ? »**
+### Étape 1 : Définissez vos règles d'évaluation dans `Lookup_Settings` (30 secondes)
+Ouvrez l'onglet **Lookup_Settings**. Sélectionnez ou ajustez votre échelle de notation, les poids des critères d'évaluation (par ex. Qualité, Ponctualité, Exactitude), les seuils de jours de retard RAG et les dates de la période d'évaluation. Le moteur de calcul calibre immédiatement l'ensemble du système selon vos règles.
 
-Le **kit Excel de Performance des Employés & Planification Annuelle du Travail** incarne cette philosophie. Ce n'est pas simplement un formulaire vierge de plus — c'est un cadre analytique répétable qui apporte le suivi de la performance de niveau entreprise aux environnements de tableurs standards.
+### Étape 2 : Copiez-collez vos données brutes dans `Employee_Master` & `Task_Master` (30 secondes)
+Copiez votre liste de personnel depuis n'importe quel CSV existant, export RH ou ancien tableur et collez-la directement dans **Employee_Master**. Collez votre plan de travail annuel ou votre liste de tâches de projet dans **Task_Master**, puis saisissez les scores bruts dans **Evaluation**. **Vous n'avez même pas besoin de double-cliquer pour copier les formules vers le bas—le moteur préconstruit correspond automatiquement à chaque enregistrement et met à jour les calculs à la volée.**
+
+### Étape 3 : Consultez l'analyse en 1 clic dans `Executive Dashboard` & `Employee Summary` (instantané)
+Cliquez sur les onglets **Employee Summary**, **Executive Dashboard** ou **Executive Report**. Chaque graphique KPI, alerte de risque de retard, comparaison de département et score d'évaluation pondéré est déjà calculé et mis en forme visuellement.
+
+### Étape 4 : Identifiez les priorités de décision en 1 minute et réutilisez localement à chaque cycle
+Pendant les périodes de pointe, mettez à jour les dates d'achèvement des tâches ou les listes déroulantes de statut avant les **revues commerciales trimestrielles (QBR)** ou les évaluations de fin d'année. Même les débutants complets bénéficient immédiatement d'une analyse commerciale claire, repèrent les goulots d'étranglement d'exécution en 1 minute et restent concentrés sur les priorités métier essentielles au lieu de se battre avec des tableurs.
+
+> 🎯 **Adoptez dès aujourd'hui votre flux d'évaluation automatisé en 1 minute :**  
+> 1. **Testez le flux en ligne gratuitement :** [Lancez l'outil web gratuit de performance des employés dans votre navigateur](https://hyvoid.github.io/employee-performance-dashboard-excel/) pour découvrir comment fonctionnent la notation automatisée et les alertes RAG sur un cycle d'évaluation unique.  
+> 2. **Achetez une fois & réutilisez localement pour toujours (garantie de remboursement de 30 jours) :** Les sessions navigateur se réinitialisent à la fermeture. **[Obtenez ici le classeur Microsoft Excel hors ligne complet (.xlsx)](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)** pour enregistrer les données de votre entreprise localement, coller vos propres listes de personnel pour une analyse instantanée en 1 clic, et résoudre définitivement les évaluations de performance récurrentes—pour un paiement unique qui coûte une fraction des abonnements SaaS RH mensuels, protégé par une **politique de remboursement de 30 jours sans questions**.
+
+---
+
+## Comparaison : tableurs manuels vs SaaS RH coûteux vs ce flux Excel fixe
+
+La plupart des équipes sont prises au piège entre des tableurs artisanaux fragiles qui cassent chaque décembre et des logiciels d'entreprise hors de prix avec des frais mensuels récurrents. Voici comment ce kit Excel standardisé comble l'écart :
+
+| Goulot d'étranglement de la gestion RH & opérations | Feuilles Excel manuelles & formulaires Word statiques | Abonnements HRIS & SaaS RH d'entreprise leaders | Ce kit Excel de performance automatisé (.xlsx) |
+| :--- | :--- | :--- | :--- |
+| **Modèle de tarification & de propriété**<br>*(maîtrise des coûts logiciels)* | Gratuit, mais gaspille 5 à 10 heures de travail de manager à chaque cycle pour réparer des cellules cassées. | Abonnements mensuels/annuels récurrents coûteux par siège (1 500 $ – 5 000 $+ par an). | **Paiement unique réduit** ; enregistrez localement sur votre ordinateur et réutilisez pour toujours avec **garantie de remboursement de 30 jours**. |
+| **Complexité du flux & configuration**<br>*(facilité d'utilisation pour débutants)* | Toile vierge nécessitant l'écriture manuelle de `VLOOKUP` et des liaisons de tables complexes. | Semaines d'implémentation informatique, d'intégration des employés et de formation des administrateurs. | **Flux de copier-coller fixe** ; les formules à correspondance automatique ne nécessitent aucun glissement ni configuration. |
+| **Alignement objectifs-évaluation**<br>*(suivi OKR & KPI)* | Les objectifs annuels sont rédigés au T1 puis oubliés jusqu'à la fin d'année (*biais de récence*). | Sépare souvent la gestion de projet quotidienne des modules d'évaluation RH. | Planification annuelle du travail, suivi hebdomadaire des tâches et scores KPI finaux restent dynamiquement liés du T1 au T4. |
+| **Détection des risques de retard**<br>*(suivi de livraison de projets)* | Les goulots d'étranglement restent invisibles jusqu'à ce qu'une échéance de projet ait déjà échoué. | Nécessite des mises à jour manuelles de statut dans plusieurs menus pour voir la dérive du calendrier. | Des **formules de statut RAG** automatisées `TODAY()` calculent les jours de retard et signalent instantanément les tâches à risque. |
+| **Équité de la notation**<br>*(évaluations 360 & managers)* | Notes subjectives de 1 à 5 sans pondération de la difficulté des tâches ni de leur valeur commerciale. | Grilles rigides difficiles à personnaliser pour des poids de tâches spécifiques. | Une **matrice d'évaluation pondérée** personnalisable normalise les notes sur la Qualité, la Rapidité et l'Exactitude. |
+| **Reporting de direction & BI**<br>*(analyses RH & Power BI)* | Des jours passés à copier, nettoyer et fusionner manuellement des feuilles pour des diapositives de synthèse. | Verrouillé derrière des plans de tarification d'entreprise de niveau supérieur ou des API propriétaires. | Génère automatiquement des **tableaux de bord de direction**, des **fiches d'évaluation PDF imprimables** et un **onglet d'export Power BI**. |
+
+---
+
+## À qui s'adresse ce système de performance des employés ? (rôles professionnels + cas d'usage)
+
+Ce **flux de gestion de la performance standardisé** est conçu pour les professionnels qui veulent des **analyses RH et un suivi de projet** de niveau entreprise immédiatement, sans les coûts d'abonnement récurrents ni la courbe d'apprentissage abrupte des logiciels HRIS lourds :
+
+* **Managers débutants & responsables d'équipe** recherchant un **modèle Excel d'évaluation des employés prêt à l'emploi** pour évaluer équitablement les livrables de l'équipe, mener des réunions d'évaluation 1-on-1 structurées et éliminer les disputes de notation subjective en 1 minute.
+* **Responsables RH, People Ops & généralistes RH** ayant besoin d'une **feuille d'évaluation du personnel standardisée et d'un tableau de bord RH** pour unifier les évaluations annuelles de performance et le reporting QBR entre plusieurs départements sur un disque local.
+* **Propriétaires de PME & fondateurs de startups** recherchant un **suiveur de KPI des employés à achat unique dans Microsoft Excel** pour établir une responsabilisation transparente et des règles de prime sans payer de frais SaaS mensuels par siège.
+* **Responsables des opérations & chefs de département** nécessitant un **suiveur opérationnel de planification du travail et d'exécution des tâches** pour surveiller les taux d'achèvement de l'équipe, le respect des échéances et l'équilibre de la charge de travail transversale.
+* **Chefs de projet (PMO) & responsables de livraison** cherchant un **suiveur de projet Excel avec alertes de statut RAG automatisées** pour détecter tôt la dérive du calendrier et prévenir les goulots d'étranglement de portefeuille.
+* **Analystes d'affaires & spécialistes RevOps** construisant des **flux de reporting RH automatisés et des pipelines de données Power BI** à partir d'un modèle de données de tableur structuré ne nécessitant aucun nettoyage manuel des données.
+* **Directeurs d'agence & responsables de services professionnels** ayant besoin d'une **fiche de qualité des livrables et d'une feuille d'examen de l'utilisation du personnel** pour évaluer l'exactitude d'exécution des projets clients et la performance de livraison à temps.
+
+---
+
+## La logique métier & la méthodologie : dévoiler les angles morts de gestion cachés (guide simple pour débutants)
+
+Vous n'avez pas besoin d'un MBA ni d'une formation en science des données pour mener des analyses de talents professionnelles. Derrière son interface simple de copier-coller, ce kit intègre quatre cadres de gestion éprouvés dans un flux fixe pour vous protéger de **quatre angles morts coûteux dans les décisions commerciales** :
+
+### 1. Angle mort n° 1 : le « piège de la mémoire de décembre » (indicateurs retardés vs avancés)
+* **Le fait objectif :** Les recherches comportementales en gestion d'équipe montrent de façon constante que lorsque les responsables se fient à leur mémoire de fin d'année pour noter les employés, jusqu'à **60 % à 70 % du poids de l'évaluation est faussé par le « biais de récence »**—ce qui s'est passé au cours des 4 dernières semaines l'emporte sur les 11 mois précédents. Les performeurs qui ont livré des projets critiques au T1 sont sous-récompensés, ce qui augmente les départs regrettés.
+* **Comment la logique intégrée le résout :** Le classeur remplace la mémoire rétrospective par un **modèle de cycle de vie continu (Planification ➔ Exécution ➔ Surveillance ➔ Évaluation)**. Chaque tâche consignée au cours de l'année transporte automatiquement sa date d'achèvement réelle et son score jusqu'à l'onglet d'évaluation final. Vous évaluez 12 mois de faits vérifiés en 60 secondes.
+
+### 2. Angle mort n° 2 : des scores de qualité élevés masquant des retards de calendrier chroniques (logique prédictive de risque RAG)
+* **Le fait objectif :** Dans les formulaires d'évaluation traditionnels, un employé qui livre un rapport soigné **3 semaines après l'échéance** reçoit souvent un score « Qualité » élevé, même si son retard a bloqué trois collègues en aval et retardé un lancement client. Noter la qualité des résultats sans suivre la dérive du calendrier masque les goulots d'étranglement opérationnels jusqu'à ce que le chiffre d'affaires soit impacté.
+* **Comment la logique intégrée le résout :** Le moteur de calcul applique automatiquement des **règles d'écart de calendrier Rouge-Orange-Vert (RAG)** par rapport à la date du calendrier réelle (`TODAY()`). Dès qu'une tâche approche ou dépasse son seuil cible, le tableau de bord déclenche un drapeau Orange (Avertissement) ou Rouge (En retard) et intègre la ponctualité directement dans le score composite de l'employé.
+
+### 3. Angle mort n° 3 : traiter les corvées triviales à l'égal des objectifs stratégiques de revenus (matrice d'évaluation pondérée)
+* **Le fait objectif :** Lorsqu'un tableur calcule une simple moyenne de toutes les tâches, un employé qui accomplit **10 tâches administratives mineures (100 % d'achèvement)** obtient un score supérieur à celui d'un spécialiste senior menant **1 initiative stratégique complexe à forte marge (85 % d'achèvement)**. Les moyennes simples incitent les employés à éviter le travail difficile à forte valeur.
+* **Comment la logique intégrée le résout :** Le modèle impose une **matrice de notation pondérée à deux niveaux**. Vous attribuez des poids stratégiques à la fois aux dimensions d'évaluation (par ex. 40 % Qualité, 30 % Ponctualité, 30 % Exactitude) et à l'importance de chaque tâche. Le moteur Excel multiplie et normalise ces poids automatiquement pour que les notes finales reflètent la véritable contribution commerciale.
+
+### 4. Angle mort n° 4 : le coût caché des « silos de tableurs » & de l'encombrement SaaS (architecture à source unique de vérité)
+* **Le fait objectif :** Dans la plupart des équipes en croissance, les chefs de projet suivent les échéances dans une feuille, les chefs de département suivent les métriques QBR dans une autre, et les RH collectent les formulaires d'évaluation dans une troisième. Rapprocher des chiffres contradictoires entre fichiers déconnectés gaspille **4 à 8 heures par manager à chaque cycle d'évaluation**, tandis que l'achat d'un SaaS d'entreprise pour y remédier draine des milliers de budget récurrent annuel.
+* **Comment la logique intégrée le résout :** Le classeur sépare les **onglets de saisie de données** (`Employee_Master`, `Task_Master`, `Evaluation`) des **vues de reporting automatisées** (`Employee Summary`, `Executive Dashboard`, `Power BI Export`). Vous collez les données une seule fois dans un fichier local fixe, et chaque graphique opérationnel, chaque fiche d'évaluation individuelle et chaque synthèse de direction se met à jour simultanément avec une cohérence mathématique de 100 %.
+
+---
+
+## À propos du créateur & autres outils d'aide à la décision à achat unique
+
+Je construis des **modèles Excel d'aide à la décision** légers et automatisés ainsi que des **tableaux de bord d'analyse commerciale** pour les managers, les fondateurs et les opérationnels qui ont trop de pièces opérationnelles mobiles à suivre de tête—et qui veulent résoudre des problèmes commerciaux récurrents sans payer d'abonnements logiciels mensuels interminables ni déboguer des formules complexes.
+
+Chaque kit est conçu autour d'une règle pratique unique :
+
+> **« Verrouillez l'analyse commerciale complexe dans un flux Excel simple et fixe pour que chacun puisse coller ses données et voir sa prochaine décision opérationnelle en moins de 60 secondes. »**
+
+### 🚀 Explorez la bibliothèque complète de kits Excel plug-and-play sur Theseus Workshop
+Si ce **kit de performance des employés & de planification annuelle du travail** vous fait gagner des heures de travail administratif et de coûts d'abonnement logiciel, explorez notre collection complète de modèles commerciaux à achat unique, de calculateurs financiers et de suiveurs opérationnels sur notre boutique officielle :
+
+* 🛒 **Visitez notre boutique principale officielle :** [Parcourez tous les modèles Excel d'analyse commerciale prêts à l'emploi & tableaux de bord de gestion sur Theseus Workshop (theseusworkshop.com)](https://www.theseusworkshop.com)
+* 📊 **Obtenez ce classeur Excel de performance (.xlsx) :** [Téléchargez le modèle Excel complet d'évaluation de la performance & de suivi des KPI sur Theseus Workshop (paiement unique • garantie de remboursement de 30 jours)](https://www.theseusworkshop.com/l/oqwcut?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=employee-performance-dashboard)
+* 🖥️ **Utilisez l'outil web en ligne gratuit :** [Lancez le calculateur navigateur interactif gratuit de performance des employés](https://hyvoid.github.io/employee-performance-dashboard-excel/)
 
 ---
 
@@ -250,28 +292,6 @@ Des protections intégrées empêchent automatiquement les conflits de débordem
 
 ---
 
-## La logique métier & la méthodologie
-
-Au fond, ce kit n'est pas qu'une feuille de calcul ; c'est une méthodologie opérationnelle conçue pour résoudre un défaut structurel spécifique de la gestion des talents en entreprise : **la déconnexion entre l'exécution quotidienne et l'évaluation annuelle.**
-
-La gestion traditionnelle de la performance repose sur des **indicateurs retardés** (scores de fin d'année basés sur la mémoire). Ce kit déplace le paradigme vers des **indicateurs avancés** (suivi de l'exécution en temps réel et détection des risques), en utilisant les cadres logiques métier suivants :
-
-### 1. Passer d'une gestion de la performance événementielle à une gestion par cycle de vie
-- **Le problème métier :** Les évaluations annuelles traitent la performance comme un « événement » isolé. Les responsables évaluent les résultats bien après l'expiration des échéances, manquant complètement la fenêtre d'action corrective.
-- **La méthodologie :** Le kit implémente un **modèle de cycle de vie continu** (Planification ➔ Exécution ➔ Surveillance ➔ Évaluation). En suivant en temps réel la progression réelle des objectifs annuels par rapport à leurs échéances prévues, la gestion de la performance devient un sous-produit des opérations quotidiennes plutôt qu'une corvée administrative séparée.
-
-### 2. Gestion prédictive des risques via une logique RAG configurable
-- **Le problème métier :** Des scores d'évaluation finaux élevés masquent souvent une faible discipline opérationnelle (par ex. un projet a été livré parfaitement, mais avec trois semaines de retard et au prix de l'épuisement de l'équipe).
-- **La méthodologie :** Le moteur de calcul introduit des **seuils Rouge-Orange-Vert (RAG) automatisés**. Au lieu d'attendre qu'une échéance soit manquée, le système calcule dynamiquement les « jours de retard » à partir de `TODAY()`. Il fait remonter les signaux d'alerte précoces (statut Jaune) pour les KPI critiques *avant* qu'ils ne dégénèrent en échecs commerciaux.
-
-### 3. Notation pondérée multidimensionnelle (neutralisation des biais)
-- **Le problème métier :** Sans grille standardisée, les évaluations de performance sont très vulnérables à la subjectivité des responsables et au biais de récence. Toutes les tâches sont traitées de manière égale, même si l'une était une initiative stratégique et l'autre un travail administratif de routine.
-- **La méthodologie :** Le kit impose une **matrice d'évaluation pondérée**. Les règles RH globales dictent les dimensions de performance (par ex. 30 % de qualité, 20 % de ponctualité), et les tâches se voient attribuer des pourcentages de poids stratégiques. Cette approche algorithmique garantit que les KPI des employés sont directement corrélés à leur contribution réelle aux objectifs commerciaux, produisant des notes de performance équitables et mathématiquement fondées.
-
-### 4. Architecture de reporting à source unique de vérité (SSOT)
-- **Le problème métier :** Les équipes RH, opérations et direction regardent souvent des feuilles de calcul différentes avec des données contradictoires, ce qui conduit à des « silos de reporting » et à du temps de réconciliation gaspillé.
-- **La méthodologie :** En découplant structurellement la saisie des données du moteur de calcul et des couches de reporting, le classeur impose une **source unique de vérité (SSOT)**. Lorsqu'un statut de tâche est mis à jour, l'Employee Summary, l'Executive Dashboard et l'export Power BI se mettent à jour simultanément. Cette méthodologie élimine la saisie de données dupliquée et garantit que les décisions de direction reposent toujours sur des réalités opérationnelles vérifiées.
-
   
 ---
 
@@ -279,11 +299,22 @@ La gestion traditionnelle de la performance repose sur des **indicateurs retard�
 
 Si vous construisez des processus opérationnels dans Excel, ces kits d'aide à la décision peuvent également accélérer votre flux de travail :
 
-* **Manufacturing Labor Cost & Capacity Planning Excel Toolkit** — Reliez la planification des effectifs à la capacité de production et aux prévisions de coûts de main-d'œuvre.
-* **Demand-Adaptive Inventory Planning & Purchasing Decision Toolkit** — Calculez le moment de réapprovisionnement, le stock de sécurité et les priorités d'achat sous une demande changeante.
-* **Restaurant Menu Configuration & Modifier Pricing Toolkit** — Standardisez l'ingénierie des menus, la tarification des modificateurs et l'analyse de rentabilité.
-* **Construction Estimate & Budget Control Toolkit** — Comparez les coûts estimés, engagés et réels des projets tout au long de leur cycle de vie.
-* **Cross-Border VAT Compliance Dashboard** — Consolidez les calculs de TVA multiplateformes et la préparation des déclarations dans un seul classeur opérationnel.
+* **[project-time-tracking-excel-template](https://github.com/HyVoid/project-time-tracking-excel-template)** — Quels projets dérivent en délais, en coûts ou en marge ? — Analysez la répartition des coûts de main-d'œuvre et la rentabilité à travers les portefeuilles de projets actifs.
+* **[Caf-audit-tool-for-efficient-reviews](https://github.com/HyVoid/Caf-audit-tool-for-efficient-reviews)** — Quelle dimension opérationnelle coûte le plus de revenus et la fuite financière exige-t-elle une intervention immédiate ? — Convertissez des observations de café structurées en un score de diagnostic pondéré, une estimation des fuites financières et une liste d'actions correctives priorisées.
+* **[Restaurant-Menu-Configuration-Modifier-Pricing-Toolkit](https://github.com/HyVoid/Restaurant-Menu-Configuration-Modifier-Pricing-Toolkit)** — Le menu est-il tarifé de manière cohérente sur toutes les combinaisons de modificateurs et de tailles, ou des erreurs de tarification cachées attendent-elles de faire surface ? — Centralisez les règles de tarification des modificateurs de configuration de menu de restaurant et les données de menu prêtes pour le POS dans une seule source de vérité gouvernée.
+* **[wedding-planner](https://github.com/HyVoid/wedding-planner)** — Quelles tâches, quels coûts et quels échéanciers de préparation de mariage nécessitent une coordination ? — Coordinez la gestion des prestataires, le suivi des tâches et le contrôle du budget dans les flux de préparation de mariage.
+* **[manufacturing-capacity-planning-template](https://github.com/HyVoid/manufacturing-capacity-planning-template)** — La capacité de main-d'œuvre est-elle utilisée efficacement ou l'opération nécessite-t-elle un effectif ou un planning différent ? — Transformez les plans de production et les données de main-d'œuvre en taux d'utilisation des capacités, en répartition des coûts de main-d'œuvre et en décisions d'effectifs.
+* **[cin7-excel-reporting-template](https://github.com/HyVoid/cin7-excel-reporting-template)** — Que disent les données opérationnelles Cin7 de la performance commerciale ? — Traduisez les données d'inventaire et d'opérations Cin7 en informations exploitables sur la performance commerciale.
+* **[rental-property-management-excel-template](https://github.com/HyVoid/rental-property-management-excel-template)** — Quels logements perdent des revenus par des vacances inaperçues et quels changements de locataires exigent une action immédiate ? — Transformez les enregistrements de réservation en statut d'occupation en temps réel, en renseignements sur les vacances et en alertes opérationnelles sur l'ensemble d'un portefeuille locatif.
+* **[workforce-planning-payroll-excel-dashboard](https://github.com/HyVoid/workforce-planning-payroll-excel-dashboard)** — L'organisation épuise-t-elle sa capacité annuelle de main-d'œuvre plus vite que prévu et quels départements nécessitent une intervention avant que les coûts d'heures supplémentaires ne s'envolent ? — Consolidez les dépenses de paie, les heures contractuelles annuelles, les ratios d'heures supplémentaires et l'utilisation des effectifs dans un seul cadre de planification des capacités transversal aux départements.
+* **[warehouse-billing-excel-template](https://github.com/HyVoid/warehouse-billing-excel-template)** — Les facturations d'entrepôt sont-elles exactes et traçables jusqu'aux enregistrements opérationnels sous-jacents ? — Calculez les frais de stockage, de manutention et de transport d'entrepôt en relevés de facturation clients auditables.
+* **[commercial-hvac-plumbing-bid-estimator](https://github.com/HyVoid/commercial-hvac-plumbing-bid-estimator)** — Quel est un prix d'appel d'offres défendable et auditable pour ce projet MEP commercial ? — Estimez et suivez les coûts des projets MEP commerciaux, du métré jusqu'à la soumission finale de l'offre.
+* **[landed-cost-calculator-excel](https://github.com/HyVoid/landed-cost-calculator-excel)** — Pourquoi le coût rendu au niveau SKU issu de mon ERP diffère-t-il de celui de l'API du transitaire, et quelle méthode de répartition cause l'érosion de la marge ? — Rapprochez et comparez les calculs de coût rendu à un modèle de praticien pour retracer les différences de répartition des coûts au niveau SKU jusqu'à leur logique comptable sous-jacente.
+* **[hoa-budget-accounting-spreadsheet](https://github.com/HyVoid/hoa-budget-accounting-spreadsheet)** — Nos fonds HOA sont-ils correctement alloués et sommes-nous en bonne voie par rapport au budget ? — Catégorisez les transactions et générez des rapports d'écarts budgétaires pour la gestion financière HOA.
+* **[homeowner-management-excel-template](https://github.com/HyVoid/homeowner-management-excel-template)** — Quel est mon véritable coût total de propriété, y compris toutes les dépenses cachées ? — Calculez le coût total de la propriété en intégrant le prêt hypothécaire, les services publics, l'entretien et les améliorations de capital.
+* **[crew-scheduling-excel-template](https://github.com/HyVoid/crew-scheduling-excel-template)** — Mon équipe actuelle pourra-t-elle gérer la charge de travail lorsque les dates de projet se décalent et se chevauchent ? — Prévoyez la demande d'équipes et les manques d'effectifs sur un horizon de 12 mois pour appuyer les décisions de planification des capacités.
+* **[Schedule-Driven-Construction-Cash-Curve-Workbook](https://github.com/HyVoid/Schedule-Driven-Construction-Cash-Curve-Workbook)** — Comment la trésorerie et l'avancement prévu de mon projet de construction évolueront-ils dans le temps selon le calendrier ? — Convertissez les calendriers de construction et les registres de postes d'offre en courbes en S automatisées, en prévisions de coûts échelonnées dans le temps et en suiveurs d'avancement prévu.
+* **[shop-floor-mrp-kanban-excel-system](https://github.com/HyVoid/shop-floor-mrp-kanban-excel-system)** — Notre planning de soudage au niveau des équipes fonctionnera-t-il sans pénurie de matériaux bloquant la ligne ? — Calculez les besoins en matériaux pilotés par la nomenclature et les signaux de réapprovisionnement Kanban à partir des plannings de production au niveau des équipes.
 
 D'autres modèles d'aide à la décision sont disponibles via le profil GitHub et la bibliothèque de produits.
 
@@ -294,3 +325,4 @@ D'autres modèles d'aide à la décision sont disponibles via le profil GitHub e
 Ce projet est sous licence **Apache License 2.0**.
 
 Vous êtes libre d'utiliser, de modifier et de distribuer ce projet conformément aux termes de l'Apache License 2.0. Toute version redistribuée doit conserver les mentions de licence et d'attribution d'origine. Voir le fichier `LICENSE` pour le texte complet de la licence.
+
